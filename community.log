@@ -1,0 +1,9 @@
+2023-11-06 09:53:09.530  INFO 18218 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 17.0.7 on 192.168.0.102 with PID 18218 (started by lky in /Users/lky/IdeaProjects/community)
+2023-11-06 09:53:09.531 DEBUG 18218 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.7.17, Spring v5.3.30
+2023-11-06 09:53:09.532  INFO 18218 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2023-11-06 09:53:10.308  INFO 18218 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-06 09:53:10.448  INFO 18218 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.074 seconds (JVM running for 1.446)
+2023-11-06 09:53:10.633 DEBUG 18218 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2023-11-06 09:53:10.633  INFO 18218 --- [main] com.nowcoder.community.LoggerTests       : info log
+2023-11-06 09:53:10.634  WARN 18218 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-11-06 09:53:10.634 ERROR 18218 --- [main] com.nowcoder.community.LoggerTests       : error log
