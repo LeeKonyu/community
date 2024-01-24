@@ -38,6 +38,8 @@ public class HomeController {
                 map.put("post", list);
                 map.put("user", userService.findUserById(list.getUserId()));
                 discussPosts.add(map);
+                discuss.add(map);
+                discussPosts.remove(map);
             }
         }
 
